@@ -1,0 +1,6 @@
+dash-extensions==0.0.58
+dash-leaflet==0.1.16
+dash==1.20.0
+fastapi[all]==0.61.1
+timezonefinder[numba]~=5.0
+gunicorn
